@@ -12,6 +12,6 @@
   "author": "calvin",
   "license": "ISC",
   "dependencies": {
-    "npm-test": "git+https://github.com/dews/npm-test.git"
+    "npm-test": "git+https://github.com/dews/npm-test.git#4536f1054d4821e50d2e909889840cb2935ac0ca"
   }
 }
