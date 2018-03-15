@@ -1,5 +1,5 @@
 {
-  "name": "main-npm-test",
+  "name": "main-npm-test3",
   "version": "1.0.0",
   "description": "test npm function",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "author": "calvin",
   "license": "ISC",
   "dependencies": {
+    "main-npm-test": "git+https://github.com/dews/npm-test.git#c9d00b41a800ffbc2c4a07f9a56088d385442a1f",
     "npm-test": "git+https://github.com/dews/npm-test.git#4536f1054d4821e50d2e909889840cb2935ac0ca"
   }
 }
